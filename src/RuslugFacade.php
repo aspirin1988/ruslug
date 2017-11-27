@@ -1,4 +1,4 @@
-<?php namespace Alexusmai\Ruslug;
+<?php namespace Aspirin1988\Ruslug;
 
 use Illuminate\Support\Facades\Facade;
 
